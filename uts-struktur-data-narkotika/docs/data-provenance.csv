@@ -1,0 +1,736 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,934/Pid.Sus/2024/PN Bjm,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,1,Qhoirul,Qhoirul,verified
+P001,pengadilan,PN Banjarmasin,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,1,Qhoirul,Qhoirul,verified
+P001,tanggalPutusan,2025-01-04,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,20,Qhoirul,Qhoirul,verified
+P001,terdakwaKode,T001,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,1,Qhoirul,Qhoirul,verified
+P001,jenisNarkotika,Sabu,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P001,beratBarangBuktiGram,"5,39",putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P001,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P001,pasalTerbukti,Pasal 114 ayat (2),putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P001,tuntutanBulan,84,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,2,Qhoirul,Qhoirul,verified
+P001,vonisBulan,78,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,20,Qhoirul,Qhoirul,verified
+P001,dendaRupiah,1000000000,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,20,Qhoirul,Qhoirul,verified
+P001,barangBukti,"10 paket sabu (berat kotor 6,50 gram  |  berat bersih 5,39 gram)  |  1 kotak rokok Aurora  |  1 timbangan digital  |  1 bungkus plastik klip  |  2 sendok sabu  |  1 HP Redmi abu-abu",putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P001,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam memberantas peredaran Narkoba  |  Terdakwa pernah dihukum,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19,Qhoirul,Qhoirul,verified
+P001,keadaanMeringankan,"Terdakwa mengaku terus terang, tidak berbelit-belit dalam memberikan keterangan  |  Terdakwa sopan di persidangan dan menyesali perbuatannya",putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,19,Qhoirul,Qhoirul,verified
+P001,sourcePages,1  |  2  |  5  |  6  |  18  |  19  |  20,putusan_934_pid.sus_2024_pn_bjm_20261106142839.pdf,1  |  2  |  5  |  6  |  18  |  19  |  20,Qhoirul,Qhoirul,verified
+P002,nomorPerkara,899/Pid.Sus/2024/PN Bjm,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,1,Qhoirul,Qhoirul,verified
+P002,pengadilan,PN Banjarmasin,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,1,Qhoirul,Qhoirul,verified
+P002,tanggalPutusan,2025-02-03,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,18,Qhoirul,Qhoirul,verified
+P002,terdakwaKode,T002,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,1,Qhoirul,Qhoirul,verified
+P002,jenisNarkotika,Sabu,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P002,beratBarangBuktiGram,"2,42",putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P002,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,4  |  6,Qhoirul,Qhoirul,verified
+P002,pasalTerbukti,Pasal 114 ayat (1),putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P002,tuntutanBulan,84,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,2,Qhoirul,Qhoirul,verified
+P002,vonisBulan,72,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,18,Qhoirul,Qhoirul,verified
+P002,dendaRupiah,1000000000,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,18,Qhoirul,Qhoirul,verified
+P002,barangBukti,"1 plastik klip berisi sabu (berat bersih sekitar 2,42 gram)  |  1 kotak rokok Red Bold  |  1 HP Realme biru",putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P002,keadaanMemberatkan,Terdakwa tidak menghiraukan anjuran pemerintah yang berusaha memberantas penyalahgunaan narkotika,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17,Qhoirul,Qhoirul,verified
+P002,keadaanMeringankan,"Terdakwa sopan di persidangan  |  Terdakwa menyesali perbuatannya  |  Terdakwa mengaku terus terang, tidak berbelit-belit dalam memberikan keterangan di persidangan  |  Terdakwa belum pernah dihukum",putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,17,Qhoirul,Qhoirul,verified
+P002,sourcePages,1  |  2  |  4  |  6  |  11  |  17  |  18,putusan_899_pid.sus_2024_pn_bjm_20261106143005.pdf,1  |  2  |  4  |  6  |  11  |  17  |  18,Qhoirul,Qhoirul,verified
+P003,nomorPerkara,18/Pid.Sus/2025/PN Bjm,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,1,Qhoirul,Qhoirul,verified
+P003,pengadilan,PN Banjarmasin,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,1,Qhoirul,Qhoirul,verified
+P003,tanggalPutusan,2025-02-04,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,18,Qhoirul,Qhoirul,verified
+P003,terdakwaKode,T003,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,1,Qhoirul,Qhoirul,verified
+P003,jenisNarkotika,Sabu,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P003,beratBarangBuktiGram,0,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,null,Qhoirul,Qhoirul,verified
+P003,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,4  |  5,Qhoirul,Qhoirul,verified
+P003,pasalTerbukti,Pasal 112 ayat (1),putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P003,tuntutanBulan,60,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,2,Qhoirul,Qhoirul,verified
+P003,vonisBulan,78,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17,Qhoirul,Qhoirul,verified
+P003,dendaRupiah,1000000000,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17,Qhoirul,Qhoirul,verified
+P003,barangBukti,4 paket sabu  |  1 kotak rokok Sampoerna  |  1 timbangan digital  |  1 tas selempang hitam  |  1 HP Vivo Y12s biru  |  uang tunai Rp5.500.000,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P003,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas peredaran Narkotika  |  Terdakwa sudah pernah dihukum,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17,Qhoirul,Qhoirul,verified
+P003,keadaanMeringankan,Terdakwa mengakui perbuatannya  |  Terdakwa menyesali perbuatannya,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,17,Qhoirul,Qhoirul,verified
+P003,sourcePages,1  |  2  |  4  |  5  |  17  |  18,putusan_18_pid.sus_2025_pn_bjm_20261106142852.pdf,1  |  2  |  4  |  5  |  17  |  18,Qhoirul,Qhoirul,verified
+P004,nomorPerkara,919/Pid.Sus/2024/PN Bjm,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,1,Qhoirul,Qhoirul,verified
+P004,pengadilan,PN Banjarmasin,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,1,Qhoirul,Qhoirul,verified
+P004,tanggalPutusan,2025-02-04,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P004,terdakwaKode,T004,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,1,Qhoirul,Qhoirul,verified
+P004,jenisNarkotika,Sabu,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,beratBarangBuktiGram,"2,44",putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P004,pasalTerbukti,Pasal 114 ayat (1),putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,tuntutanBulan,72,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,2,Qhoirul,Qhoirul,verified
+P004,vonisBulan,78,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,dendaRupiah,1000000000,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,barangBukti,"1 paket narkotika jenis sabu (berat bersih 2,44 gram)  |  1 bungkusan bekas biskuit Roma Marie Susu  |  1 HP Oppo abu-abu",putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,21,Qhoirul,Qhoirul,verified
+P004,sourcePages,1  |  2  |  5  |  6  |  14  |  21  |  22,putusan_919_pid.sus_2024_pn_bjm_20261106142903.pdf,1  |  2  |  5  |  6  |  14  |  21  |  22,Qhoirul,Qhoirul,verified
+P005,nomorPerkara,929/Pid.Sus/2024/PN Bjm,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,1,Qhoirul,Qhoirul,verified
+P005,pengadilan,PN Banjarmasin,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,1,Qhoirul,Qhoirul,verified
+P005,tanggalPutusan,2025-02-04,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P005,terdakwaKode,T005,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,1,Qhoirul,Qhoirul,verified
+P005,jenisNarkotika,Sabu,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,beratBarangBuktiGram,"2,9",putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,5,Qhoirul,Qhoirul,verified
+P005,pasalTerbukti,Pasal 114 ayat (1),putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,tuntutanBulan,84,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,2,Qhoirul,Qhoirul,verified
+P005,vonisBulan,78,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,dendaRupiah,1000000000,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,barangBukti,"4 paket narkotika jenis sabu dibungkus plastik klip (berat kotor 3,62 gram  |  berat bersih 2,90 gram)  |  1 tempat balsem plastik  |  1 botol Happydent cool white  |  1 kotak rokok Click hijau  |  1 timbangan digital  |  1 HP",putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,18,Qhoirul,Qhoirul,verified
+P005,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,17,Qhoirul,Qhoirul,verified
+P005,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,17,Qhoirul,Qhoirul,verified
+P005,sourcePages,1  |  2  |  5  |  11  |  17  |  18  |  19,putusan_929_pid.sus_2024_pn_bjm_20261106142915.pdf,1  |  2  |  5  |  11  |  17  |  18  |  19,Qhoirul,Qhoirul,verified
+P006,nomorPerkara,3/Pid.Sus/2025/PN Bjm,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,1,Qhoirul,Qhoirul,verified
+P006,pengadilan,PN Banjarmasin,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,1,Qhoirul,Qhoirul,verified
+P006,tanggalPutusan,2025-02-05,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,32,Qhoirul,Qhoirul,verified
+P006,terdakwaKode,T006  |  T007,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,1,Qhoirul,Qhoirul,verified
+P006,jenisNarkotika,Sabu,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P006,beratBarangBuktiGram,"23,83",putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P006,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,3  |  7  |  9,Qhoirul,Qhoirul,verified
+P006,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30  |  31  |  32,Qhoirul,Qhoirul,verified
+P006,tuntutanBulan,102  |  102,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,2  |  3  |  4,Qhoirul,Qhoirul,verified
+P006,vonisBulan,96  |  96,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,31,Qhoirul,Qhoirul,verified
+P006,dendaRupiah,1000000000  |  1000000000,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,31,Qhoirul,Qhoirul,verified
+P006,barangBukti,"7 paket serbuk kristal sabu (berat bersih 23,70 gram)  |  1 paket serbuk kristal sabu (berat bersih 0,13 gram)  |  1 dompet kecil hitam  |  2 sendok sabu  |  1 sendok sabu hitam dari sedotan  |  1 bungkus rokok Konser  |  1 bungkus plastik wafer  |  1 bungkus plastik klip  |  1 lembar tissue  |  2 HP Oppo  |  1 timbangan digital  |  2 bendel plastik klip  |  1 sendok sabu warna tosca  |  1 motor Yamaha Freego",putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P006,keadaanMemberatkan,Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran Narkotika  |  Para Terdakwa pernah dihukum dalam perkara yang sama,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30,Qhoirul,Qhoirul,verified
+P006,keadaanMeringankan,Para Terdakwa kooperatif dan berterus terang mengakui perbuatannya sehingga memperlancar pemeriksaan di persidangan  |  Para Terdakwa menyesali perbuatannya serta berjanji tidak akan mengulanginya lagi,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,30,Qhoirul,Qhoirul,verified
+P006,sourcePages,1  |  2  |  3  |  30  |  31  |  32,putusan_3_pid.sus_2025_pn_bjm_20261106142605.pdf,1  |  2  |  3  |  30  |  31  |  32,Qhoirul,Qhoirul,verified
+P007,nomorPerkara,24/Pid.Sus/2025/PN Bjm,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,1,Qhoirul,Qhoirul,verified
+P007,pengadilan,PN Banjarmasin,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,1,Qhoirul,Qhoirul,verified
+P007,tanggalPutusan,2025-02-05,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P007,terdakwaKode,T008,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,1,Qhoirul,Qhoirul,verified
+P007,jenisNarkotika,Sabu,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,beratBarangBuktiGram,"0,98",putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,5,Qhoirul,Qhoirul,verified
+P007,pasalTerbukti,Pasal 114 ayat (1),putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,tuntutanBulan,60,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,2,Qhoirul,Qhoirul,verified
+P007,vonisBulan,60,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,dendaRupiah,1000000000,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,barangBukti,"1 paket narkotika jenis sabu (berat bersih 0,98 gram)  |  1 potongan tissue  |  1 plastik bekas bungkusan tissue merk Paseo warna ungu hijau  |  1 HP Infinix warna biru",putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,18,Qhoirul,Qhoirul,verified
+P007,keadaanMeringankan,Terdakwa bersikap sopan dalam persidangan  |  Terdakwa menyesali perbuatannya,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,19,Qhoirul,Qhoirul,verified
+P007,sourcePages,1  |  2  |  5  |  12  |  17  |  18  |  19  |  20,putusan_24_pid.sus_2025_pn_bjm_20261106142815.pdf,1  |  2  |  5  |  12  |  17  |  18  |  19  |  20,Qhoirul,Qhoirul,verified
+P008,nomorPerkara,862/Pid.Sus/2024/PN Bjm,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,1,Qhoirul,Qhoirul,verified
+P008,pengadilan,PN Banjarmasin,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,1,Qhoirul,Qhoirul,verified
+P008,tanggalPutusan,2025-02-05,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,24,Qhoirul,Qhoirul,verified
+P008,terdakwaKode,T009  |  T010,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,1,Qhoirul,Qhoirul,verified
+P008,jenisNarkotika,Sabu,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,24,Qhoirul,Qhoirul,verified
+P008,beratBarangBuktiGram,"99,07",putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23  |  24,Qhoirul,Qhoirul,verified
+P008,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P008,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23  |  24,Qhoirul,Qhoirul,verified
+P008,tuntutanBulan,108  |  108,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,2,Qhoirul,Qhoirul,verified
+P008,vonisBulan,102  |  102,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23,Qhoirul,Qhoirul,verified
+P008,dendaRupiah,1000000000  |  1000000000,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23,Qhoirul,Qhoirul,verified
+P008,barangBukti,"1 paket narkotika golongan I jenis sabu (berat kotor 101,64 gram  |  berat bersih 99,07 gram)  |  1 HP Oppo A5s biru  |  1 HP Samsung Galaxy A01 Core hitam  |  barang lain yang disita",putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,24,Qhoirul,Qhoirul,verified
+P008,keadaanMemberatkan,Perbuatan Para Terdakwa menghambat program Pemerintah RI dalam memberantas peredaran narkotika  |  Terdakwa I pernah dihukum,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23,Qhoirul,Qhoirul,verified
+P008,keadaanMeringankan,"Para Terdakwa mengakui terus terang perbuatannya  |  Para Terdakwa merasa bersalah, menyesali perbuatannya dan berjanji tidak mengulanginya lagi  |  Terdakwa II belum pernah dihukum",putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,23,Qhoirul,Qhoirul,verified
+P008,sourcePages,1  |  2  |  5  |  6  |  13  |  22  |  23  |  24,putusan_862_pid.sus_2024_pn_bjm_20261106142454.pdf,1  |  2  |  5  |  6  |  13  |  22  |  23  |  24,Qhoirul,Qhoirul,verified
+P009,nomorPerkara,909/Pid.Sus/2024/PN Bjm,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,1,Qhoirul,Qhoirul,verified
+P009,pengadilan,PN Banjarmasin,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,1,Qhoirul,Qhoirul,verified
+P009,tanggalPutusan,2025-02-05,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,26,Qhoirul,Qhoirul,verified
+P009,terdakwaKode,T011,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,1,Qhoirul,Qhoirul,verified
+P009,jenisNarkotika,Sabu,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,beratBarangBuktiGram,"1,72",putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P009,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,5,Qhoirul,Qhoirul,verified
+P009,pasalTerbukti,Pasal 114 ayat (1),putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P009,tuntutanBulan,72,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,2,Qhoirul,Qhoirul,verified
+P009,vonisBulan,66,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,dendaRupiah,1000000000,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,barangBukti,"17 paket narkotika jenis sabu (berat bersih seluruhnya 1,72 gram)  |  uang tunai Rp400.000",putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran Narkotika  |  Terdakwa pernah dipidana,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,keadaanMeringankan,"Terdakwa kooperatif dan berterus terang mengakui perbuatannya sehingga memperlancar pemeriksaan di persidangan  |  Terdakwa telah mengakui bersalah dan menyesali perbuatannya, serta berjanji tidak akan mengulanginya lagi",putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,25,Qhoirul,Qhoirul,verified
+P009,sourcePages,1  |  2  |  5  |  15  |  25  |  26,putusan_909_pid.sus_2024_pn_bjm_20261106142630.pdf,1  |  2  |  5  |  15  |  25  |  26,Qhoirul,Qhoirul,verified
+P010,nomorPerkara,922/Pid.Sus/2024/PN Bjm,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,1,Qhoirul,Qhoirul,verified
+P010,pengadilan,PN Banjarmasin,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,1,Qhoirul,Qhoirul,verified
+P010,tanggalPutusan,2025-02-05,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,16,Qhoirul,Qhoirul,verified
+P010,terdakwaKode,T012,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,1,Qhoirul,Qhoirul,verified
+P010,jenisNarkotika,Sabu,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P010,beratBarangBuktiGram,"0,08",putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P010,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,4  |  6,Qhoirul,Qhoirul,verified
+P010,pasalTerbukti,Pasal 114 ayat (1),putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P010,tuntutanBulan,66,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,2,Qhoirul,Qhoirul,verified
+P010,vonisBulan,60,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15,Qhoirul,Qhoirul,verified
+P010,dendaRupiah,1000000000,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15,Qhoirul,Qhoirul,verified
+P010,barangBukti,"2 paket narkotika jenis sabu (berat bersih 0,08 gram)",putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P010,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran Narkotika  |  Terdakwa sudah pernah dihukum sebelumnya,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15,Qhoirul,Qhoirul,verified
+P010,keadaanMeringankan,Terdakwa bersikap sopan dan mengakui perbuatannya  |  Terdakwa merasa bersalah dan menyesal atas perbuatannya,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,15,Qhoirul,Qhoirul,verified
+P010,sourcePages,1  |  2  |  4  |  6  |  9  |  15  |  16,putusan_922_pid.sus_2024_pn_bjm_20261106142619.pdf,1  |  2  |  4  |  6  |  9  |  15  |  16,Qhoirul,Qhoirul,verified
+P011,nomorPerkara,924/Pid.Sus/2024/PN Bjm,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,1,Qhoirul,Qhoirul,verified
+P011,pengadilan,PN Banjarmasin,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,1,Qhoirul,Qhoirul,verified
+P011,tanggalPutusan,2025-02-05,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,19,Qhoirul,Qhoirul,verified
+P011,terdakwaKode,T013,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,1,Qhoirul,Qhoirul,verified
+P011,jenisNarkotika,Sabu,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P011,beratBarangBuktiGram,"10,07",putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P011,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,5,Qhoirul,Qhoirul,verified
+P011,pasalTerbukti,Pasal 114 ayat (2),putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P011,tuntutanBulan,90,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,2  |  3,Qhoirul,Qhoirul,verified
+P011,vonisBulan,84,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18,Qhoirul,Qhoirul,verified
+P011,dendaRupiah,1000000000,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18,Qhoirul,Qhoirul,verified
+P011,barangBukti,"3 paket besar narkotika jenis sabu (berat bersih 10,07 gram)  |  1 set alat isap sabu beserta kaca pipet  |  1 celana jeans anak biru  |  2 mancis",putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P011,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran Narkotika,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18,Qhoirul,Qhoirul,verified
+P011,keadaanMeringankan,Terdakwa bersikap sopan dan mengakui perbuatannya  |  Terdakwa merasa bersalah dan menyesal atas perbuatannya  |  Terdakwa belum pernah dihukum,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,18,Qhoirul,Qhoirul,verified
+P011,sourcePages,1  |  2  |  5  |  18  |  19,putusan_924_pid.sus_2024_pn_bjm_20261106142432.pdf,1  |  2  |  5  |  18  |  19,Qhoirul,Qhoirul,verified
+P012,nomorPerkara,943/Pid.Sus/2024/PN Bjm,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,1,Qhoirul,Qhoirul,verified
+P012,pengadilan,PN Banjarmasin,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,1,Qhoirul,Qhoirul,verified
+P012,tanggalPutusan,2025-02-05,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,25,Qhoirul,Qhoirul,verified
+P012,terdakwaKode,T014  |  T015  |  T016,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,1,Qhoirul,Qhoirul,verified
+P012,jenisNarkotika,Sabu,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P012,beratBarangBuktiGram,"23,54",putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P012,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,7,Qhoirul,Qhoirul,verified
+P012,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P012,tuntutanBulan,102  |  102  |  102,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,3,Qhoirul,Qhoirul,verified
+P012,vonisBulan,84  |  84  |  96,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,25,Qhoirul,Qhoirul,verified
+P012,dendaRupiah,1000000000  |  1000000000  |  1000000000,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,25,Qhoirul,Qhoirul,verified
+P012,barangBukti,"5 paket sabu (berat kotor 24,69 gram, berat bersih 23,54 gram)  |  2 lembar tisu putih  |  1 botol selai kaca merk EVA  |  1 plastik hitam  |  1 HP Vivo Y12i  |  1 HP Vivo Y02",putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P012,keadaanMemberatkan,Perbuatan Para Terdakwa menghambat program Pemerintah RI dalam memberantas peredaran narkotika  |  Terdakwa III sudah pernah dihukum,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24,Qhoirul,Qhoirul,verified
+P012,keadaanMeringankan,Para Terdakwa merasa bersalah dan menyesal atas perbuatannya  |  Terdakwa I dan Terdakwa II belum pernah dihukum,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,24,Qhoirul,Qhoirul,verified
+P012,sourcePages,1  |  3  |  7  |  16  |  23  |  24  |  25,putusan_943_pid.sus_2024_pn_bjm_20261106142803.pdf,1  |  3  |  7  |  16  |  23  |  24  |  25,Qhoirul,Qhoirul,verified
+P013,nomorPerkara,944/Pid.Sus/2024/PN Bjm,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,1,Qhoirul,Qhoirul,verified
+P013,pengadilan,PN Banjarmasin,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,1,Qhoirul,Qhoirul,verified
+P013,tanggalPutusan,2025-02-05,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,26,Qhoirul,Qhoirul,verified
+P013,terdakwaKode,T017,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,1,Qhoirul,Qhoirul,verified
+P013,jenisNarkotika,Sabu,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,beratBarangBuktiGram,"23,54",putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,2  |  5,Qhoirul,Qhoirul,verified
+P013,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P013,tuntutanBulan,102,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,2,Qhoirul,Qhoirul,verified
+P013,vonisBulan,90,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,dendaRupiah,1000000000,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,barangBukti,"5 paket narkotika jenis sabu (berat kotor 24,69 gram, berat bersih 23,54 gram)  |  2 lembar tisu putih  |  1 botol selai kaca merk EVA  |  1 plastik hitam  |  1 HP Vivo Y12i  |  1 HP Vivo Y02",putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,keadaanMemberatkan,Terdakwa sudah pernah dihukum  |  Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,keadaanMeringankan,Terdakwa bersikap sopan dalam persidangan  |  Terdakwa menyesali perbuatannya,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,25,Qhoirul,Qhoirul,verified
+P013,sourcePages,1  |  2  |  5  |  17  |  24  |  25  |  26,putusan_944_pid.sus_2024_pn_bjm_20261106142827.pdf,1  |  2  |  5  |  17  |  24  |  25  |  26,Qhoirul,Qhoirul,verified
+P014,nomorPerkara,857/Pid.Sus/2024/PN Bjm,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,1,Qhoirul,Qhoirul,verified
+P014,pengadilan,PN Banjarmasin,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,1,Qhoirul,Qhoirul,verified
+P014,tanggalPutusan,2025-02-07,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,43,Qhoirul,Qhoirul,verified
+P014,terdakwaKode,T018  |  T019  |  T020,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,1,Qhoirul,Qhoirul,verified
+P014,jenisNarkotika,Sabu,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,beratBarangBuktiGram,"5,16",putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,4,Qhoirul,Qhoirul,verified
+P014,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42  |  43,Qhoirul,Qhoirul,verified
+P014,tuntutanBulan,90  |  90  |  90,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,3,Qhoirul,Qhoirul,verified
+P014,vonisBulan,78  |  78  |  78,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,dendaRupiah,1000000000  |  1000000000  |  1000000000,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,barangBukti,"1 paket sabu (berat kotor 5,09 gram  |  bersih 4,94 gram)  |  1 paket sabu (berat kotor 0,37 gram  |  bersih 0,22 gram)  |  1 lembar tisu putih  |  1 HP OPPO A54 abu-abu  |  barang lain yang disita  |  uang tunai Rp1.600.000",putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,keadaanMemberatkan,Perbuatan Para Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,41,Qhoirul,Qhoirul,verified
+P014,keadaanMeringankan,Para Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi  |  Para Terdakwa belum pernah dihukum sebelumnya,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,42,Qhoirul,Qhoirul,verified
+P014,sourcePages,1  |  3  |  4  |  30  |  41  |  42  |  43,putusan_857_pid.sus_2024_pn_bjm_20261106142341.pdf,1  |  3  |  4  |  30  |  41  |  42  |  43,Qhoirul,Qhoirul,verified
+P015,nomorPerkara,189/Pid.Sus/2025/PN Bjm,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,1,Qhoirul,Qhoirul,verified
+P015,pengadilan,PN Banjarmasin,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,1,Qhoirul,Qhoirul,verified
+P015,tanggalPutusan,2025-04-30,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,21,Qhoirul,Qhoirul,verified
+P015,terdakwaKode,T021,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,1,Qhoirul,Qhoirul,verified
+P015,jenisNarkotika,Zenith Carnophen,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,beratBarangBuktiGram,0,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,0,Qhoirul,Qhoirul,verified
+P015,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P015,pasalTerbukti,Pasal 114 ayat (2),putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20  |  21,Qhoirul,Qhoirul,verified
+P015,tuntutanBulan,102,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,2,Qhoirul,Qhoirul,verified
+P015,vonisBulan,96,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,dendaRupiah,1000000000,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,barangBukti,"1.966 butir narkotika jenis Zenith Carnophen  |  2 HP (Nokia 105 hitam, Vivo Y22 biru)  |  1 sepeda motor Yamaha Nmax perak beserta STNK  |  uang tunai Rp3.418.000",putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,keadaanMemberatkan,Terdakwa sudah pernah dihukum terkait tindak pidana narkotika  |  Perbuatan Terdakwa menghambat program Pemerintah RI dalam memberantas peredaran narkotika,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,keadaanMeringankan,Terdakwa mengakui dan menyesali atas perbuatan yang dilakukannya,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,20,Qhoirul,Qhoirul,verified
+P015,sourcePages,1  |  2  |  5  |  6  |  10  |  19  |  20  |  21,putusan_189_pid.sus_2025_pn_bjm_20261106142106.pdf,1  |  2  |  5  |  6  |  10  |  19  |  20  |  21,Qhoirul,Qhoirul,verified
+P016,nomorPerkara,137/Pid.Sus/2025/PN Bjm,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,1,Qhoirul,Qhoirul,verified
+P016,pengadilan,PN Banjarmasin,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,1,Qhoirul,Qhoirul,verified
+P016,tanggalPutusan,2025-05-05,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,terdakwaKode,T022,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,1,Qhoirul,Qhoirul,verified
+P016,jenisNarkotika,Sabu,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,beratBarangBuktiGram,"0,98",putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P016,pasalTerbukti,Pasal 112 ayat (1),putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,tuntutanBulan,60,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,2,Qhoirul,Qhoirul,verified
+P016,vonisBulan,54,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,dendaRupiah,1000000000,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,barangBukti,"6 paket narkotika diduga sabu (berat bersih sekitar 0,98 gram tanpa plastik klip)  |  1 kotak senter hijau  |  1 mobil Daihatsu Sigra putih  |  uang tunai Rp1.250.000",putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,22,Qhoirul,Qhoirul,verified
+P016,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memerangi peredaran obat-obatan terlarang,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,21,Qhoirul,Qhoirul,verified
+P016,keadaanMeringankan,"Terdakwa sopan di persidangan  |  Terdakwa menyesali perbuatannya  |  Terdakwa mengaku terus terang, tidak berbelit-belit  |  Terdakwa belum pernah dihukum",putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,21,Qhoirul,Qhoirul,verified
+P016,sourcePages,1  |  2  |  5  |  6  |  21  |  22,putusan_137_pid.sus_2025_pn_bjm_20261106142142.pdf,1  |  2  |  5  |  6  |  21  |  22,Qhoirul,Qhoirul,verified
+P017,nomorPerkara,175/Pid.Sus/2025/PN Bjm,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,1,Qhoirul,Qhoirul,verified
+P017,pengadilan,PN Banjarmasin,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,1,Qhoirul,Qhoirul,verified
+P017,tanggalPutusan,2025-05-05,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,24,Qhoirul,Qhoirul,verified
+P017,terdakwaKode,T023,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,1,Qhoirul,Qhoirul,verified
+P017,jenisNarkotika,Ekstasi,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,beratBarangBuktiGram,"0,88",putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P017,pasalTerbukti,Pasal 112 ayat (1),putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23  |  24,Qhoirul,Qhoirul,verified
+P017,tuntutanBulan,60,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,2,Qhoirul,Qhoirul,verified
+P017,vonisBulan,48,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,dendaRupiah,1000000000,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,barangBukti,"2 butir ekstasi warna biru berlogo RR (berat kotor 1,06 gram  |  berat bersih 0,88 gram)",putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran Narkotika,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,keadaanMeringankan,"Terdakwa mengaku bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulanginya lagi  |  Terdakwa belum pernah dihukum",putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,23,Qhoirul,Qhoirul,verified
+P017,sourcePages,1  |  2  |  5  |  6  |  14  |  23  |  24,putusan_175_pid.sus_2025_pn_bjm_20261106142237.pdf,1  |  2  |  5  |  6  |  14  |  23  |  24,Qhoirul,Qhoirul,verified
+P018,nomorPerkara,176/Pid.Sus/2025/PN Bjm,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,1,Qhoirul,Qhoirul,verified
+P018,pengadilan,PN Banjarmasin,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,1,Qhoirul,Qhoirul,verified
+P018,tanggalPutusan,2025-05-05,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,26,Qhoirul,Qhoirul,verified
+P018,terdakwaKode,T024  |  T025,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,1,Qhoirul,Qhoirul,verified
+P018,jenisNarkotika,Ekstasi  |  Sabu,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P018,beratBarangBuktiGram,"0,79",putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P018,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (1) jo Pasal 132 ayat (1),putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,6,Qhoirul,Qhoirul,verified
+P018,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1),putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P018,tuntutanBulan,72  |  72,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,3,Qhoirul,Qhoirul,verified
+P018,vonisBulan,60  |  60,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25,Qhoirul,Qhoirul,verified
+P018,dendaRupiah,1000000000  |  1000000000,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25,Qhoirul,Qhoirul,verified
+P018,barangBukti,"1 butir ekstasi warna biru berlogo RR (berat bersih 0,44 gram)  |  2 paket sabu (berat bersih 0,35 gram)  |  1 kotak kecil plastik putih  |  1 HP Redmi Note 11 hitam",putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P018,keadaanMemberatkan,Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25,Qhoirul,Qhoirul,verified
+P018,keadaanMeringankan,Para Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi  |  Para Terdakwa belum pernah dihukum,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,25,Qhoirul,Qhoirul,verified
+P018,sourcePages,1  |  2  |  3  |  6  |  16  |  25  |  26,putusan_176_pid.sus_2025_pn_bjm_20261106142251.pdf,1  |  2  |  3  |  6  |  16  |  25  |  26,Qhoirul,Qhoirul,verified
+P019,nomorPerkara,195/Pid.Sus/2025/PN Bjm,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,1,Qhoirul,Qhoirul,verified
+P019,pengadilan,PN Banjarmasin,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,1,Qhoirul,Qhoirul,verified
+P019,tanggalPutusan,2025-05-06,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,22,Qhoirul,Qhoirul,verified
+P019,terdakwaKode,T026,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,1,Qhoirul,Qhoirul,verified
+P019,jenisNarkotika,Sabu,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P019,beratBarangBuktiGram,"0,61",putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P019,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,5,Qhoirul,Qhoirul,verified
+P019,pasalTerbukti,Pasal 114 ayat (1),putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P019,tuntutanBulan,60,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,2,Qhoirul,Qhoirul,verified
+P019,vonisBulan,84,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,22,Qhoirul,Qhoirul,verified
+P019,dendaRupiah,1000000000,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,22,Qhoirul,Qhoirul,verified
+P019,barangBukti,"1 paket narkotika jenis sabu (berat bersih 0,61 gram tanpa plastik klip)  |  1 gunting  |  1 plester  |  1 timbangan digital merk Harnic silver  |  4 sendok plastik dari sedotan  |  1 kotak hitam FIFGRUP  |  1 kotak permen merk Teens  |  1 pack plastik klip  |  uang tunai",putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P019,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika  |  Terdakwa pernah dihukum,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21,Qhoirul,Qhoirul,verified
+P019,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,21,Qhoirul,Qhoirul,verified
+P019,sourcePages,1  |  2  |  5  |  13  |  21  |  22,putusan_195_pid.sus_2025_pn_bjm_20261106142309.pdf,1  |  2  |  5  |  13  |  21  |  22,Qhoirul,Qhoirul,verified
+P020,nomorPerkara,197/Pid.Sus/2025/PN Bjm,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,1,Qhoirul,Qhoirul,verified
+P020,pengadilan,PN Banjarmasin,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,1,Qhoirul,Qhoirul,verified
+P020,tanggalPutusan,2025-05-06,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,21,Qhoirul,Qhoirul,verified
+P020,terdakwaKode,T027,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,1,Qhoirul,Qhoirul,verified
+P020,jenisNarkotika,Sabu,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,21,Qhoirul,Qhoirul,verified
+P020,beratBarangBuktiGram,1,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20  |  21,Qhoirul,Qhoirul,verified
+P020,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P020,pasalTerbukti,Pasal 112 ayat (1),putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20  |  21,Qhoirul,Qhoirul,verified
+P020,tuntutanBulan,54,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,2,Qhoirul,Qhoirul,verified
+P020,vonisBulan,48,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20,Qhoirul,Qhoirul,verified
+P020,dendaRupiah,1000000000,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20,Qhoirul,Qhoirul,verified
+P020,barangBukti,"1 paket narkotika jenis sabu (berat kotor 1,20 gram  |  berat bersih 1 gram)  |  1 HP OPPO A38 hitam  |  1 HP Realme C11 abu-abu  |  1 timbangan digital  |  1 pack plastik klip  |  1 kantong plastik kresek hitam  |  uang tunai Rp370.000",putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,21,Qhoirul,Qhoirul,verified
+P020,keadaanMemberatkan,Terdakwa tidak menghiraukan anjuran pemerintah yang berusaha memberantas penyalahgunaan narkotika,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20,Qhoirul,Qhoirul,verified
+P020,keadaanMeringankan,"Terdakwa belum pernah dihukum  |  Terdakwa sopan di persidangan  |  Terdakwa menyesali perbuatannya  |  Terdakwa mengaku terus terang, tidak berbelit-belit dalam memberikan keterangan di persidangan",putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,20,Qhoirul,Qhoirul,verified
+P020,sourcePages,1  |  2  |  5  |  6  |  19  |  20  |  21,putusan_197_pid.sus_2025_pn_bjm_20261106142259.pdf,1  |  2  |  5  |  6  |  19  |  20  |  21,Qhoirul,Qhoirul,verified
+P021,nomorPerkara,219/Pid.Sus/2025/PN Bjm,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,1,Qhoirul,Qhoirul,verified
+P021,pengadilan,PN Banjarmasin,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,1,Qhoirul,Qhoirul,verified
+P021,tanggalPutusan,2025-05-21,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,33,Qhoirul,Qhoirul,verified
+P021,terdakwaKode,T028,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,1,Qhoirul,Qhoirul,verified
+P021,jenisNarkotika,Ekstasi,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32,Qhoirul,Qhoirul,verified
+P021,beratBarangBuktiGram,7,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P021,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,6,Qhoirul,Qhoirul,verified
+P021,pasalTerbukti,Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P021,tuntutanBulan,0,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,null,Qhoirul,Qhoirul,verified
+P021,vonisBulan,60,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P021,dendaRupiah,1000000000,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P021,barangBukti,2 paket pil ekstasi warna pink (masing-masing 10 butir dan 6 butir  |  berat bersih keseluruhan 7 gram)  |  1 bantal kecil hitam merah  |  1 HP Itel,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32,Qhoirul,Qhoirul,verified
+P021,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan kebijakan serta program Pemerintah dalam pemberantasan tindak pidana Narkotika,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32,Qhoirul,Qhoirul,verified
+P021,keadaanMeringankan,Terdakwa bersikap kooperatif selama proses persidangan dan mengakui terus terang,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,32,Qhoirul,Qhoirul,verified
+P021,sourcePages,1  |  2  |  6  |  22  |  32  |  33,putusan_219_pid.sus_2025_pn_bjm_20261106141829.pdf,1  |  2  |  6  |  22  |  32  |  33,Qhoirul,Qhoirul,verified
+P022,nomorPerkara,220/Pid.Sus/2025/PN Bjm,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,1,Qhoirul,Qhoirul,verified
+P022,pengadilan,PN Banjarmasin,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,1,Qhoirul,Qhoirul,verified
+P022,tanggalPutusan,2025-05-21,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,33,Qhoirul,Qhoirul,verified
+P022,terdakwaKode,T029,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,1,Qhoirul,Qhoirul,verified
+P022,jenisNarkotika,Sabu,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32,Qhoirul,Qhoirul,verified
+P022,beratBarangBuktiGram,150,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32,Qhoirul,Qhoirul,verified
+P022,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,6,Qhoirul,Qhoirul,verified
+P022,pasalTerbukti,Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P022,tuntutanBulan,120,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,2,Qhoirul,Qhoirul,verified
+P022,vonisBulan,90,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P022,dendaRupiah,1000000000,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P022,barangBukti,1 paket narkotika jenis sabu dibungkus plastik klip bening (berat bersih 150 gram)  |  1 sendok plastik  |  1 paket J&T  |  1 mug hijau  |  1 HP Vivo biru,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32,Qhoirul,Qhoirul,verified
+P022,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan kebijakan serta program Pemerintah dalam pemberantasan tindak pidana Narkotika,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,31,Qhoirul,Qhoirul,verified
+P022,keadaanMeringankan,Terdakwa bersikap kooperatif selama proses persidangan dan mengakui terus terang,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,32,Qhoirul,Qhoirul,verified
+P022,sourcePages,1  |  2  |  6  |  22  |  31  |  32  |  33,putusan_220_pid.sus_2025_pn_bjm_20261106141917.pdf,1  |  2  |  6  |  22  |  31  |  32  |  33,Qhoirul,Qhoirul,verified
+P023,nomorPerkara,161/Pid.Sus/2025/PN Bjm,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,1,Qhoirul,Qhoirul,verified
+P023,pengadilan,PN Banjarmasin,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,1,Qhoirul,Qhoirul,verified
+P023,tanggalPutusan,2025-05-26,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,62,Qhoirul,Qhoirul,verified
+P023,terdakwaKode,T030  |  T031  |  T032,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,1,Qhoirul,Qhoirul,verified
+P023,jenisNarkotika,Sabu  |  Ekstasi,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60  |  61,Qhoirul,Qhoirul,verified
+P023,beratBarangBuktiGram,"55324,04",putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60  |  61,Qhoirul,Qhoirul,verified
+P023,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,3  |  10,Qhoirul,Qhoirul,verified
+P023,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60  |  61  |  62,Qhoirul,Qhoirul,verified
+P023,tuntutanBulan,240  |  240  |  240,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,3,Qhoirul,Qhoirul,verified
+P023,vonisBulan,240  |  240  |  240,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60,Qhoirul,Qhoirul,verified
+P023,dendaRupiah,1000000000  |  1000000000  |  1000000000,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60,Qhoirul,Qhoirul,verified
+P023,barangBukti,"50 paket sabu (berat kotor 53.732 gram  |  berat bersih 51.324 gram)  |  4.552 butir ekstasi logo Rolls Royce warna biru (berat bersih 1.749,13 gram)  |  5.008 butir ekstasi logo burung hantu warna merah muda (berat bersih 2.182,53 gram)  |  1 paket serpihan ekstasi biru (berat bersih 58,48 gram)  |  1 paket serbuk ekstasi biru (berat bersih 9,9 gram)  |  50 bungkus teh Guanyinwang  |  kemasan plastik  |  tas  |  HP  |  dokumen dan pelat kendaraan  |  mobil Mitsubishi Triton  |  nota pembayaran",putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60  |  61,Qhoirul,Qhoirul,verified
+P023,keadaanMemberatkan,Perbuatan Para Terdakwa menghambat program Pemerintah RI dalam memberantas peredaran narkotika,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60,Qhoirul,Qhoirul,verified
+P023,keadaanMeringankan,Tidak ada keadaan yang meringankan,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,60,Qhoirul,Qhoirul,verified
+P023,sourcePages,1  |  3  |  40  |  58  |  60  |  61  |  62,putusan_161_pid.sus_2025_pn_bjm_20261106141527.pdf,1  |  3  |  40  |  58  |  60  |  61  |  62,Qhoirul,Qhoirul,verified
+P024,nomorPerkara,162/Pid.Sus/2025/PN Bjm,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,1,Qhoirul,Qhoirul,verified
+P024,pengadilan,PN Banjarmasin,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,1,Qhoirul,Qhoirul,verified
+P024,tanggalPutusan,2025-05-26,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,67,Qhoirul,Qhoirul,verified
+P024,terdakwaKode,T033,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,1,Qhoirul,Qhoirul,verified
+P024,jenisNarkotika,Sabu  |  Ekstasi,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,beratBarangBuktiGram,"55324,04",putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64  |  65  |  66,Qhoirul,Qhoirul,verified
+P024,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,5,Qhoirul,Qhoirul,verified
+P024,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64  |  65  |  66  |  67,Qhoirul,Qhoirul,verified
+P024,tuntutanBulan,0,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,2,Qhoirul,Qhoirul,verified
+P024,vonisBulan,0,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,dendaRupiah,0,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,barangBukti,"50 paket sabu (berat kotor 53.732 gram  |  berat bersih 51.324 gram)  |  4.552 butir ekstasi logo Rolls Royce warna biru (berat bersih 1.749,13 gram)  |  5.008 butir ekstasi logo burung hantu warna merah muda (berat bersih 2.182,53 gram)  |  1 paket serpihan ekstasi biru (berat bersih 58,48 gram)  |  1 paket serbuk ekstasi biru (berat bersih 9,9 gram)  |  50 bungkus teh Guanyinwang  |  kemasan plastik  |  tas  |  HP  |  dokumen dan pelat kendaraan  |  mobil Mitsubishi Triton  |  nota pembayaran",putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran Narkotika  |  Terdakwa pernah dihukum,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,keadaanMeringankan,Tidak ada keadaan yang meringankan,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,64,Qhoirul,Qhoirul,verified
+P024,sourcePages,1  |  2  |  5  |  64  |  65  |  66  |  67,putusan_162_pid.sus_2025_pn_bjm_20261106141652.pdf,1  |  2  |  5  |  64  |  65  |  66  |  67,Qhoirul,Qhoirul,verified
+P025,nomorPerkara,163/Pid.Sus/2025/PN Bjm,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,1,Qhoirul,Qhoirul,verified
+P025,pengadilan,PN Banjarmasin,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,1,Qhoirul,Qhoirul,verified
+P025,tanggalPutusan,2025-05-26,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,48,Qhoirul,Qhoirul,verified
+P025,terdakwaKode,T034,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,1,Qhoirul,Qhoirul,verified
+P025,jenisNarkotika,Sabu  |  Ekstasi,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46,Qhoirul,Qhoirul,verified
+P025,beratBarangBuktiGram,"55324,04",putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46,Qhoirul,Qhoirul,verified
+P025,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,2  |  11,Qhoirul,Qhoirul,verified
+P025,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46  |  47  |  48,Qhoirul,Qhoirul,verified
+P025,tuntutanBulan,0,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,2,Qhoirul,Qhoirul,verified
+P025,vonisBulan,0,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46,Qhoirul,Qhoirul,verified
+P025,dendaRupiah,0,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46,Qhoirul,Qhoirul,verified
+P025,barangBukti,"50 paket sabu (berat kotor 53.732 gram  |  berat bersih 51.324 gram)  |  4.552 butir ekstasi logo Rolls Royce warna biru (berat bersih 1.749,13 gram)  |  5.008 butir ekstasi logo burung hantu warna merah muda (berat bersih 2.182,53 gram)  |  1 paket serpihan ekstasi biru (berat bersih 58,48 gram)  |  1 paket serbuk ekstasi biru (berat bersih 9,9 gram)  |  50 bungkus teh Guanyinwang  |  kemasan plastik  |  tas  |  HP  |  dokumen dan pelat kendaraan  |  mobil Mitsubishi Triton  |  nota pembayaran",putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,46,Qhoirul,Qhoirul,verified
+P025,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika  |  Terdakwa sudah pernah dihukum sebelumnya,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,45,Qhoirul,Qhoirul,verified
+P025,keadaanMeringankan,Tidak ada keadaan yang meringankan,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,45,Qhoirul,Qhoirul,verified
+P025,sourcePages,1  |  2  |  29  |  45  |  46  |  47  |  48,putusan_163_pid.sus_2025_pn_bjm_20261106141432.pdf,1  |  2  |  29  |  45  |  46  |  47  |  48,Qhoirul,Qhoirul,verified
+P026,nomorPerkara,194/Pid.Sus/2025/PN Bjm,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,1,Qhoirul,Qhoirul,verified
+P026,pengadilan,PN Banjarmasin,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,1,Qhoirul,Qhoirul,verified
+P026,tanggalPutusan,2025-05-26,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,22,Qhoirul,Qhoirul,verified
+P026,terdakwaKode,T035,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,1,Qhoirul,Qhoirul,verified
+P026,jenisNarkotika,Sabu,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21,Qhoirul,Qhoirul,verified
+P026,beratBarangBuktiGram,"1,01",putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21,Qhoirul,Qhoirul,verified
+P026,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P026,pasalTerbukti,Pasal 114 ayat (1),putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P026,tuntutanBulan,72,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,2,Qhoirul,Qhoirul,verified
+P026,vonisBulan,60,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P026,dendaRupiah,1000000000,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21  |  22,Qhoirul,Qhoirul,verified
+P026,barangBukti,"8 paket narkotika jenis sabu dibungkus plastik klip (berat kotor 2,35 gram  |  berat bersih 1,01 gram)  |  1 sendok plastik dari sedotan  |  1 dompet pink motif bunga  |  1 HP Vivo gold  |  1 HP Samsung gold",putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21,Qhoirul,Qhoirul,verified
+P026,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan kebijakan serta program Pemerintah dalam pemberantasan tindak pidana Narkotika,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,20,Qhoirul,Qhoirul,verified
+P026,keadaanMeringankan,Terdakwa belum pernah dihukum  |  Terdakwa bersikap kooperatif selama proses persidangan dan mengakui terus terang,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,21,Qhoirul,Qhoirul,verified
+P026,sourcePages,1  |  2  |  5  |  6  |  12  |  20  |  21  |  22,putusan_194_pid.sus_2025_pn_bjm_20261106141442.pdf,1  |  2  |  5  |  6  |  12  |  20  |  21  |  22,Qhoirul,Qhoirul,verified
+P027,nomorPerkara,228/Pid.Sus/2025/PN Bjm,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,1,Qhoirul,Qhoirul,verified
+P027,pengadilan,PN Banjarmasin,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,1,Qhoirul,Qhoirul,verified
+P027,tanggalPutusan,2025-05-26,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,47,Qhoirul,Qhoirul,verified
+P027,terdakwaKode,T036,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,1,Qhoirul,Qhoirul,verified
+P027,jenisNarkotika,Pethidina Hydrochloride,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46  |  47,Qhoirul,Qhoirul,verified
+P027,beratBarangBuktiGram,0,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46  |  47,Qhoirul,Qhoirul,verified
+P027,pasalDakwaan,Pasal 119 ayat (1) UU 35/2009  |  Pasal 117 ayat (1) UU 35/2009  |  Pasal 62 UU 5/1997  |  Pasal 435 UU 17/2023,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,1  |  10  |  13  |  15,Qhoirul,Qhoirul,verified
+P027,pasalTerbukti,Pasal 119 ayat (1) UU 35/2009  |  Pasal 62 UU 5/1997  |  Pasal 435 UU 17/2023,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46,Qhoirul,Qhoirul,verified
+P027,tuntutanBulan,84,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,3,Qhoirul,Qhoirul,verified
+P027,vonisBulan,84,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46,Qhoirul,Qhoirul,verified
+P027,dendaRupiah,1000000000,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46,Qhoirul,Qhoirul,verified
+P027,barangBukti,30 ampul Pethidina Hydrochloride Injeksi 50 mg/ml  |  200 ampul Diazepam Injeksi 5 mg/ml  |  20 ampul Ranitidine HCl 25 mg/ml  |  3 butir Atarax/Alprazolam 1 mg  |  7 cairan infus Ringer Lactate  |  4 set alat infus merek GEA  |  kardus paket TIKI  |  plastik bubble wrap  |  kantong plastik putih  |  tas selempang Seventy Four coklat  |  uang tunai Rp1.800.000  |  1 HP iPhone hijau,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46  |  47,Qhoirul,Qhoirul,verified
+P027,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika  |  Terdakwa sudah pernah dihukum dalam perkara sejenis,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46,Qhoirul,Qhoirul,verified
+P027,keadaanMeringankan,Terdakwa bersikap sopan dan mengakui perbuatannya  |  Terdakwa merasa bersalah dan menyesal atas perbuatannya,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,46,Qhoirul,Qhoirul,verified
+P027,sourcePages,1  |  2  |  3  |  7  |  24  |  46  |  47,putusan_228_pid.sus_2025_pn_bjm_20261106141503.pdf,1  |  2  |  3  |  7  |  24  |  46  |  47,Qhoirul,Qhoirul,verified
+P028,nomorPerkara,211/Pid.Sus/2025/PN Bjm,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,1,Qhoirul,Qhoirul,verified
+P028,pengadilan,PN Banjarmasin,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,1,Qhoirul,Qhoirul,verified
+P028,tanggalPutusan,2025-05-27,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,42,Qhoirul,Qhoirul,verified
+P028,terdakwaKode,T037  |  T038,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,1,Qhoirul,Qhoirul,verified
+P028,jenisNarkotika,Sabu,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41  |  42,Qhoirul,Qhoirul,verified
+P028,beratBarangBuktiGram,"97,79",putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41  |  42,Qhoirul,Qhoirul,verified
+P028,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,7,Qhoirul,Qhoirul,verified
+P028,pasalTerbukti,Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41  |  42,Qhoirul,Qhoirul,verified
+P028,tuntutanBulan,108  |  108,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,3,Qhoirul,Qhoirul,verified
+P028,vonisBulan,96  |  96,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41,Qhoirul,Qhoirul,verified
+P028,dendaRupiah,1000000000  |  1000000000,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41,Qhoirul,Qhoirul,verified
+P028,barangBukti,"12 paket sabu (berat bersih keseluruhan 97,79 gram)  |  bekas bungkus snack French Fries 2000  |  bekas bungkus snack Siip  |  2 pak plastik klip  |  1 timbangan digital  |  2 sendok sabu dari sedotan plastik  |  1 plastik ungu  |  1 HP Vivo hitam",putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41  |  42,Qhoirul,Qhoirul,verified
+P028,keadaanMemberatkan,Perbuatan para terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika  |  Terdakwa I sudah pernah dihukum,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41,Qhoirul,Qhoirul,verified
+P028,keadaanMeringankan,Para terdakwa mengakui terus terang dan menyesali perbuatannya  |  Para terdakwa bersikap sopan di persidangan  |  Terdakwa II belum pernah dihukum,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,41,Qhoirul,Qhoirul,verified
+P028,sourcePages,1  |  3  |  7  |  28  |  41  |  42,putusan_211_pid.sus_2025_pn_bjm_20261106141619.pdf,1  |  3  |  7  |  28  |  41  |  42,Qhoirul,Qhoirul,verified
+P029,nomorPerkara,243/Pid.Sus/2025/PN Bjm,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,1,Qhoirul,Qhoirul,verified
+P029,pengadilan,PN Banjarmasin,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,1,Qhoirul,Qhoirul,verified
+P029,tanggalPutusan,2025-05-27,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,33,Qhoirul,Qhoirul,verified
+P029,terdakwaKode,T039  |  T040,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,1,Qhoirul,Qhoirul,verified
+P029,jenisNarkotika,Sabu  |  Ekstasi,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32,Qhoirul,Qhoirul,verified
+P029,beratBarangBuktiGram,"46,32",putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32,Qhoirul,Qhoirul,verified
+P029,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,6,Qhoirul,Qhoirul,verified
+P029,pasalTerbukti,Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32  |  33,Qhoirul,Qhoirul,verified
+P029,tuntutanBulan,96  |  96,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,3,Qhoirul,Qhoirul,verified
+P029,vonisBulan,90  |  96,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32,Qhoirul,Qhoirul,verified
+P029,dendaRupiah,1000000000  |  1000000000,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32,Qhoirul,Qhoirul,verified
+P029,barangBukti,"12 paket sabu (berat kotor 38,12 gram  |  bersih 35,03 gram)  |  3 paket sabu (berat kotor 10,18 gram  |  bersih 9,52 gram)  |  4 butir tablet XTC biru logo RR (berat bersih 1,77 gram)  |  3 sendok sabu dari sedotan  |  1 timbangan digital Senssun  |  2 pak plastik klip  |  1 pipet kaca  |  1 bong  |  1 kompor dari botol parfum  |  1 dompet Puma biru  |  HP Redmi biru  |  HP Vivo biru",putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,32,Qhoirul,Qhoirul,verified
+P029,keadaanMemberatkan,Perbuatan Para Terdakwa tidak mendukung program pemerintah dalam memberantas peredaran Narkotika  |  Terdakwa II sudah pernah dihukum,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,31,Qhoirul,Qhoirul,verified
+P029,keadaanMeringankan,Terdakwa I belum pernah dihukum  |  Para Terdakwa mengakui perbuatannya,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,31,Qhoirul,Qhoirul,verified
+P029,sourcePages,1  |  3  |  6  |  31  |  32  |  33,putusan_243_pid.sus_2025_pn_bjm_20261106141606.pdf,1  |  3  |  6  |  31  |  32  |  33,Qhoirul,Qhoirul,verified
+P030,nomorPerkara,182/Pid.Sus/2025/PN Bjm,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,1,Qhoirul,Qhoirul,verified
+P030,pengadilan,PN Banjarmasin,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,1,Qhoirul,Qhoirul,verified
+P030,tanggalPutusan,2025-06-02,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,28,Qhoirul,Qhoirul,verified
+P030,terdakwaKode,T041,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,1,Qhoirul,Qhoirul,verified
+P030,jenisNarkotika,Sabu,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27  |  28,Qhoirul,Qhoirul,verified
+P030,beratBarangBuktiGram,"2,4",putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27  |  28,Qhoirul,Qhoirul,verified
+P030,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,6,Qhoirul,Qhoirul,verified
+P030,pasalTerbukti,Pasal 114 ayat (1),putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27  |  28,Qhoirul,Qhoirul,verified
+P030,tuntutanBulan,78,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,2,Qhoirul,Qhoirul,verified
+P030,vonisBulan,66,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,28,Qhoirul,Qhoirul,verified
+P030,dendaRupiah,1000000000,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,28,Qhoirul,Qhoirul,verified
+P030,barangBukti,"1 paket narkotika jenis sabu (berat bersih/netto 2,40 gram)  |  1 HP Realme hitam  |  uang Rp150.000",putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27  |  28,Qhoirul,Qhoirul,verified
+P030,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung Program Pemerintah dalam memerangi peredaran obat-obatan terlarang,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27,Qhoirul,Qhoirul,verified
+P030,keadaanMeringankan,"Terdakwa sopan di persidangan  |  Terdakwa menyesali perbuatannya  |  Terdakwa mengaku terus terang, tidak berbelit-belit  |  Terdakwa belum pernah dihukum",putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,27,Qhoirul,Qhoirul,verified
+P030,sourcePages,1  |  2  |  6  |  27  |  28,putusan_182_pid.sus_2025_pn_bjm_20261106141839.pdf,1  |  2  |  6  |  27  |  28,Qhoirul,Qhoirul,verified
+P031,nomorPerkara,232/Pid.Sus/2025/PN Bjm,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,1,Qhoirul,Qhoirul,verified
+P031,pengadilan,PN Banjarmasin,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,1,Qhoirul,Qhoirul,verified
+P031,tanggalPutusan,2025-06-02,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,35,Qhoirul,Qhoirul,verified
+P031,terdakwaKode,T042,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,1,Qhoirul,Qhoirul,verified
+P031,jenisNarkotika,Sabu,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34,Qhoirul,Qhoirul,verified
+P031,beratBarangBuktiGram,"2,45",putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34,Qhoirul,Qhoirul,verified
+P031,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,2  |  9,Qhoirul,Qhoirul,verified
+P031,pasalTerbukti,Pasal 114 ayat (1),putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34  |  35,Qhoirul,Qhoirul,verified
+P031,tuntutanBulan,66,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,2,Qhoirul,Qhoirul,verified
+P031,vonisBulan,60,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34  |  35,Qhoirul,Qhoirul,verified
+P031,dendaRupiah,1000000000,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34  |  35,Qhoirul,Qhoirul,verified
+P031,barangBukti,"3 paket narkotika jenis sabu (berat bersih keseluruhan 2,45 gram)  |  1 lembar kertas tisu  |  1 kotak rokok Aurora putih  |  1 jaket hoodie Smith hijau  |  1 HP Vivo silver",putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34,Qhoirul,Qhoirul,verified
+P031,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan kebijakan serta program Pemerintah dalam pemberantasan tindak pidana Narkotika,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34,Qhoirul,Qhoirul,verified
+P031,keadaanMeringankan,Terdakwa belum pernah dihukum  |  Terdakwa bersikap kooperatif mengakui terus terang selama proses persidangan,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,34,Qhoirul,Qhoirul,verified
+P031,sourcePages,1  |  2  |  19  |  34  |  35,putusan_232_pid.sus_2025_pn_bjm_20261106141849.pdf,1  |  2  |  19  |  34  |  35,Qhoirul,Qhoirul,verified
+P032,nomorPerkara,222/Pid.Sus/2025/PN Bjm,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,1,Qhoirul,Qhoirul,verified
+P032,pengadilan,PN Banjarmasin,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,1,Qhoirul,Qhoirul,verified
+P032,tanggalPutusan,2025-06-03,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,terdakwaKode,T043,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,1,Qhoirul,Qhoirul,verified
+P032,jenisNarkotika,Sabu,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,beratBarangBuktiGram,"0,08",putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,4  |  5,Qhoirul,Qhoirul,verified
+P032,pasalTerbukti,Pasal 112 ayat (1),putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,tuntutanBulan,66,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,2,Qhoirul,Qhoirul,verified
+P032,vonisBulan,54,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,dendaRupiah,1000000000,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,barangBukti,"1 paket kecil narkotika jenis sabu (berat 0,08 gram) di dalam bungkus rokok Surya 12",putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,15,Qhoirul,Qhoirul,verified
+P032,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat  |  Terdakwa pernah dihukum dalam perkara narkotika,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,14,Qhoirul,Qhoirul,verified
+P032,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,14,Qhoirul,Qhoirul,verified
+P032,sourcePages,1  |  2  |  4  |  5  |  9  |  14  |  15,putusan_222_pid.sus_2025_pn_bjm_20261106141859.pdf,1  |  2  |  4  |  5  |  9  |  14  |  15,Qhoirul,Qhoirul,verified
+P033,nomorPerkara,236/Pid.Sus/2025/PN Bjm,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,1,Qhoirul,Qhoirul,verified
+P033,pengadilan,PN Banjarmasin,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,1,Qhoirul,Qhoirul,verified
+P033,tanggalPutusan,2025-06-10,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,34,Qhoirul,Qhoirul,verified
+P033,terdakwaKode,T044,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,1,Qhoirul,Qhoirul,verified
+P033,jenisNarkotika,Sabu,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33,Qhoirul,Qhoirul,verified
+P033,beratBarangBuktiGram,"5,47",putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33,Qhoirul,Qhoirul,verified
+P033,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,6,Qhoirul,Qhoirul,verified
+P033,pasalTerbukti,Pasal 114 ayat (2),putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33  |  34,Qhoirul,Qhoirul,verified
+P033,tuntutanBulan,84,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,2,Qhoirul,Qhoirul,verified
+P033,vonisBulan,78,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33,Qhoirul,Qhoirul,verified
+P033,dendaRupiah,1000000000,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33,Qhoirul,Qhoirul,verified
+P033,barangBukti,"7 paket serbuk kristal sabu (berat kotor 6,59 gram  |  berat bersih 5,47 gram)  |  1 bungkus kotak permen BOOM hijau  |  1 timbangan digital  |  1 dompet kecil oranye  |  2 pak plastik klip  |  1 HP Vivo biru",putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,33,Qhoirul,Qhoirul,verified
+P033,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung Program Pemerintah dalam memerangi peredaran obat-obatan terlarang  |  Terdakwa pernah dihukum,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,32,Qhoirul,Qhoirul,verified
+P033,keadaanMeringankan,"Terdakwa sopan di persidangan  |  Terdakwa menyesali perbuatannya  |  Terdakwa mengaku terus terang, tidak berbelit-belit dalam memberikan keterangan di persidangan  |  Terdakwa merupakan tulang punggung keluarga",putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,32,Qhoirul,Qhoirul,verified
+P033,sourcePages,1  |  2  |  6  |  32  |  33  |  34,putusan_236_pid.sus_2025_pn_bjm_20261106142031.pdf,1  |  2  |  6  |  32  |  33  |  34,Qhoirul,Qhoirul,verified
+P034,nomorPerkara,260/Pid.Sus/2025/PN Bjm,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,1,Qhoirul,Qhoirul,verified
+P034,pengadilan,PN Banjarmasin,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,1,Qhoirul,Qhoirul,verified
+P034,tanggalPutusan,2025-06-10,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,20,Qhoirul,Qhoirul,verified
+P034,terdakwaKode,T045,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,1,Qhoirul,Qhoirul,verified
+P034,jenisNarkotika,Sabu,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P034,beratBarangBuktiGram,"1003,83",putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P034,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,4  |  6,Qhoirul,Qhoirul,verified
+P034,pasalTerbukti,Pasal 114 ayat (2),putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P034,tuntutanBulan,150,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,2,Qhoirul,Qhoirul,verified
+P034,vonisBulan,150,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,20,Qhoirul,Qhoirul,verified
+P034,dendaRupiah,2000000000,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,20,Qhoirul,Qhoirul,verified
+P034,barangBukti,"1 paket sabu (berat bersih 1.003,83 gram)  |  1 plastik bening bertuliskan N6  |  1 bungkus plastik teh Guanyinwang hijau  |  1 kantong plastik hitam  |  1 tas ransel kecil hitam  |  1 HP Oppo merah maroon  |  uang tunai",putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19  |  20,Qhoirul,Qhoirul,verified
+P034,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah memberantas peredaran Narkotika  |  Terdakwa pernah dihukum,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19,Qhoirul,Qhoirul,verified
+P034,keadaanMeringankan,Terdakwa mengakui perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,19,Qhoirul,Qhoirul,verified
+P034,sourcePages,1  |  2  |  4  |  6  |  11  |  19  |  20,putusan_260_pid.sus_2025_pn_bjm_20261106141958.pdf,1  |  2  |  4  |  6  |  11  |  19  |  20,Qhoirul,Qhoirul,verified
+P035,nomorPerkara,600/Pid.Sus/2025/PN Bjm,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,1,Qhoirul,Qhoirul,verified
+P035,pengadilan,PN Banjarmasin,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,1,Qhoirul,Qhoirul,verified
+P035,tanggalPutusan,2025-10-30,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,terdakwaKode,T046,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,1,Qhoirul,Qhoirul,verified
+P035,jenisNarkotika,Sabu,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,beratBarangBuktiGram,"0,1",putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P035,pasalTerbukti,Pasal 112 ayat (1),putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,tuntutanBulan,72,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,2,Qhoirul,Qhoirul,verified
+P035,vonisBulan,66,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,dendaRupiah,800000000,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,barangBukti,"1 paket narkotika jenis sabu (berat bersih 0,10 gram)  |  1 botol air mineral merk Ombe  |  2 HP OPPO A57  |  1 sepeda motor Honda Beat hitam",putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,22,Qhoirul,Qhoirul,verified
+P035,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika  |  Terdakwa pernah dihukum dalam perkara lain,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,21,Qhoirul,Qhoirul,verified
+P035,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,21,Qhoirul,Qhoirul,verified
+P035,sourcePages,1  |  2  |  5  |  6  |  15  |  21  |  22,putusan_600_pid.sus_2025_pn_bjm_20261106141039.pdf,1  |  2  |  5  |  6  |  15  |  21  |  22,Qhoirul,Qhoirul,verified
+P036,nomorPerkara,631/Pid.Sus/2025/PN Bjm,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,1,Qhoirul,Qhoirul,verified
+P036,pengadilan,PN Banjarmasin,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,1,Qhoirul,Qhoirul,verified
+P036,tanggalPutusan,2025-10-30,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,23,Qhoirul,Qhoirul,verified
+P036,terdakwaKode,T047,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,1,Qhoirul,Qhoirul,verified
+P036,jenisNarkotika,Sabu,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22,Qhoirul,Qhoirul,verified
+P036,beratBarangBuktiGram,"0,63",putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22,Qhoirul,Qhoirul,verified
+P036,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,6,Qhoirul,Qhoirul,verified
+P036,pasalTerbukti,Pasal 112 ayat (1),putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22  |  23,Qhoirul,Qhoirul,verified
+P036,tuntutanBulan,78,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,2,Qhoirul,Qhoirul,verified
+P036,vonisBulan,72,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22,Qhoirul,Qhoirul,verified
+P036,dendaRupiah,1000000000,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22,Qhoirul,Qhoirul,verified
+P036,barangBukti,"3 paket serbuk kristal sabu ukuran besar (berat kotor 1,20 gram  |  bersih 0,63 gram)  |  1 celana biru  |  1 HP OPPO hitam  |  1 HP VIVO biru",putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,22,Qhoirul,Qhoirul,verified
+P036,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,21,Qhoirul,Qhoirul,verified
+P036,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan  |  Terdakwa belum pernah dihukum,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,21,Qhoirul,Qhoirul,verified
+P036,sourcePages,1  |  2  |  6  |  14  |  21  |  22  |  23,putusan_631_pid.sus_2025_pn_bjm_20261106141046.pdf,1  |  2  |  6  |  14  |  21  |  22  |  23,Qhoirul,Qhoirul,verified
+P037,nomorPerkara,662/Pid.Sus/2025/PN Bjm,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,1,Qhoirul,Qhoirul,verified
+P037,pengadilan,PN Banjarmasin,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,1,Qhoirul,Qhoirul,verified
+P037,tanggalPutusan,2025-10-30,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,17,Qhoirul,Qhoirul,verified
+P037,terdakwaKode,T048,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,1,Qhoirul,Qhoirul,verified
+P037,jenisNarkotika,Sabu,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,beratBarangBuktiGram,"0,89",putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,5  |  6,Qhoirul,Qhoirul,verified
+P037,pasalTerbukti,Pasal 112 ayat (1),putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16  |  17,Qhoirul,Qhoirul,verified
+P037,tuntutanBulan,78,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,2,Qhoirul,Qhoirul,verified
+P037,vonisBulan,72,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,dendaRupiah,1000000000,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,barangBukti,"13 paket kecil narkotika jenis sabu (berat bersih 0,89 gram)  |  1 kantong plastik hitam  |  barang lain yang disita  |  uang tunai Rp350.000",putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Terdakwa bersikap sopan di persidangan,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,16,Qhoirul,Qhoirul,verified
+P037,sourcePages,1  |  2  |  5  |  6  |  15  |  16  |  17,putusan_662_pid.sus_2025_pn_bjm_20261106141102.pdf,1  |  2  |  5  |  6  |  15  |  16  |  17,Qhoirul,Qhoirul,verified
+P038,nomorPerkara,488/Pid.Sus/2025/PN Bjm,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,1,Qhoirul,Qhoirul,verified
+P038,pengadilan,PN Banjarmasin,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,1,Qhoirul,Qhoirul,verified
+P038,tanggalPutusan,2025-11-03,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,terdakwaKode,T049,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,1,Qhoirul,Qhoirul,verified
+P038,jenisNarkotika,Sabu,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,beratBarangBuktiGram,"31984,5",putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,2  |  9  |  12,Qhoirul,Qhoirul,verified
+P038,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,tuntutanBulan,0,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,2,Qhoirul,Qhoirul,verified
+P038,vonisBulan,0,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,dendaRupiah,0,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,barangBukti,"33 paket sabu (berat bersih 22.964,5 gram)  |  9 paket sabu (berat bersih 9.020 gram)  |  alat press merk Origin  |  SIM A  |  barang lain yang disita",putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,keadaanMeringankan,Tidak ada keadaan yang meringankan,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,52,Qhoirul,Qhoirul,verified
+P038,sourcePages,1  |  2  |  31  |  52,putusan_488_pid.sus_2025_pn_bjm_20261106141014.pdf,1  |  2  |  31  |  52,Qhoirul,Qhoirul,verified
+P039,nomorPerkara,630/Pid.Sus/2025/PN Bjm,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,1,Qhoirul,Qhoirul,verified
+P039,pengadilan,PN Banjarmasin,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,1,Qhoirul,Qhoirul,verified
+P039,tanggalPutusan,2025-11-03,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,19,Qhoirul,Qhoirul,verified
+P039,terdakwaKode,T050,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,1,Qhoirul,Qhoirul,verified
+P039,jenisNarkotika,Sabu  |  Ekstasi,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,beratBarangBuktiGram,"85,73",putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P039,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,6,Qhoirul,Qhoirul,verified
+P039,pasalTerbukti,Pasal 112 ayat (2),putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18  |  19,Qhoirul,Qhoirul,verified
+P039,tuntutanBulan,102,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,2,Qhoirul,Qhoirul,verified
+P039,vonisBulan,96,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,dendaRupiah,1000000000,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,barangBukti,"1 paket serbuk kristal sabu ukuran besar (berat kotor 78,31 gram  |  bersih 77,34 gram)  |  3 paket sabu ukuran sedang (berat kotor 8,58 gram  |  bersih 7,91 gram)  |  1 butir tablet XTC logo RR (berat bersih 0,48 gram)  |  1 botol kecil merk robot  |  1 timbangan digital hitam  |  1 sendok plastik putih  |  1 sendok sedotan hitam  |  1 tas kecil hitam merk Loma  |  1 HP OPPO hijau",putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah untuk memberantas peredaran narkotika  |  Perbuatan Terdakwa meresahkan masyarakat  |  Terdakwa pernah dihukum sebelumnya,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,keadaanMeringankan,"Terdakwa bersikap sopan dalam persidangan  |  Terdakwa tidak berbelit-belit, mengakui terus terang dan menyesali perbuatannya",putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,18,Qhoirul,Qhoirul,verified
+P039,sourcePages,1  |  2  |  6  |  11  |  17  |  18  |  19,putusan_630_pid.sus_2025_pn_bjm_20261106141021.pdf,1  |  2  |  6  |  11  |  17  |  18  |  19,Qhoirul,Qhoirul,verified
+P040,nomorPerkara,670/Pid.Sus/2025/PN Bjm,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,1,Qhoirul,Qhoirul,verified
+P040,pengadilan,PN Banjarmasin,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,1,Qhoirul,Qhoirul,verified
+P040,tanggalPutusan,2025-11-03,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,26,Qhoirul,Qhoirul,verified
+P040,terdakwaKode,T051,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,1,Qhoirul,Qhoirul,verified
+P040,jenisNarkotika,Sabu,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,beratBarangBuktiGram,"594,23",putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,2  |  7,Qhoirul,Qhoirul,verified
+P040,pasalTerbukti,Pasal 114 ayat (2),putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P040,tuntutanBulan,120,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,2,Qhoirul,Qhoirul,verified
+P040,vonisBulan,84,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,dendaRupiah,1000000000,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,barangBukti,"1 paket sabu (berat kotor 50,55 gram  |  bersih 49,61 gram)  |  6 paket sabu (berat kotor 550,26 gram  |  bersih 544,62 gram)  |  8 kantong plastik  |  1 pack plastik klip  |  1 timbangan digital  |  1 sendok sabu dari plastik  |  1 kantong kain hitam  |  1 jaket putih  |  2 HP (Samsung, Infinix)  |  1 sepeda motor Yamaha biru",putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan peredaran narkotika,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,25,Qhoirul,Qhoirul,verified
+P040,sourcePages,1  |  2  |  16  |  25  |  26,putusan_670_pid.sus_2025_pn_bjm_20261106141007.pdf,1  |  2  |  16  |  25  |  26,Qhoirul,Qhoirul,verified
+P041,nomorPerkara,695/Pid.Sus/2025/PN Bjm,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,1,Qhoirul,Qhoirul,verified
+P041,pengadilan,PN Banjarmasin,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,1,Qhoirul,Qhoirul,verified
+P041,tanggalPutusan,2025-11-03,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,18,Qhoirul,Qhoirul,verified
+P041,terdakwaKode,T052,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,1,Qhoirul,Qhoirul,verified
+P041,jenisNarkotika,Sabu,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,beratBarangBuktiGram,"0,54",putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,5,Qhoirul,Qhoirul,verified
+P041,pasalTerbukti,Pasal 112 ayat (1),putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17  |  18,Qhoirul,Qhoirul,verified
+P041,tuntutanBulan,72,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,2,Qhoirul,Qhoirul,verified
+P041,vonisBulan,54,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,dendaRupiah,1000000000,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,barangBukti,"2 paket narkotika jenis sabu (berat bersih 0,54 gram)  |  1 timbangan  |  1 bungkus plastik klip  |  1 sendok plastik  |  1 dompet kecil hitam",putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya  |  Terdakwa belum pernah dihukum,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,17,Qhoirul,Qhoirul,verified
+P041,sourcePages,1  |  2  |  5  |  11  |  17  |  18,putusan_695_pid.sus_2025_pn_bjm_20261106141030.pdf,1  |  2  |  5  |  11  |  17  |  18,Qhoirul,Qhoirul,verified
+P042,nomorPerkara,664/Pid.Sus/2025/PN Bjm,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,1,Qhoirul,Qhoirul,verified
+P042,pengadilan,PN Banjarmasin,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,1,Qhoirul,Qhoirul,verified
+P042,tanggalPutusan,2025-11-24,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,25,Qhoirul,Qhoirul,verified
+P042,terdakwaKode,T053,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,1,Qhoirul,Qhoirul,verified
+P042,jenisNarkotika,Sabu,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24,Qhoirul,Qhoirul,verified
+P042,beratBarangBuktiGram,"29658,6",putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24,Qhoirul,Qhoirul,verified
+P042,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,6,Qhoirul,Qhoirul,verified
+P042,pasalTerbukti,Pasal 114 ayat (2),putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P042,tuntutanBulan,228,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,2,Qhoirul,Qhoirul,verified
+P042,vonisBulan,216,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24,Qhoirul,Qhoirul,verified
+P042,dendaRupiah,1000000000,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24,Qhoirul,Qhoirul,verified
+P042,barangBukti,"30 paket sabu (berat kotor 31.956,60 gram  |  berat bersih 29.658,60 gram)  |  1 lembar kwitansi pembelian tiket travel mobil tujuan Palangkaraya-Banjarmasin  |  barang lain yang disita",putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,24,Qhoirul,Qhoirul,verified
+P042,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah untuk memberantas peredaran narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,23,Qhoirul,Qhoirul,verified
+P042,keadaanMeringankan,"Terdakwa bersikap sopan dalam persidangan  |  Terdakwa tidak berbelit-belit, mengakui terus terang dan menyesali perbuatannya  |  Terdakwa belum pernah dihukum",putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,23,Qhoirul,Qhoirul,verified
+P042,sourcePages,1  |  2  |  6  |  15  |  22  |  23  |  24  |  25,putusan_664_pid.sus_2025_pn_bjm_20261106141421.pdf,1  |  2  |  6  |  15  |  22  |  23  |  24  |  25,Qhoirul,Qhoirul,verified
+P043,nomorPerkara,666/Pid.Sus/2025/PN Bjm,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,1,Qhoirul,Qhoirul,verified
+P043,pengadilan,PN Banjarmasin,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,1,Qhoirul,Qhoirul,verified
+P043,tanggalPutusan,2025-11-24,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,16,Qhoirul,Qhoirul,verified
+P043,terdakwaKode,T054,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,1,Qhoirul,Qhoirul,verified
+P043,jenisNarkotika,Sabu,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P043,beratBarangBuktiGram,"0,77",putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P043,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,4  |  6,Qhoirul,Qhoirul,verified
+P043,pasalTerbukti,Pasal 112 ayat (1),putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P043,tuntutanBulan,90,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,2,Qhoirul,Qhoirul,verified
+P043,vonisBulan,66,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,16,Qhoirul,Qhoirul,verified
+P043,dendaRupiah,1000000000,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,16,Qhoirul,Qhoirul,verified
+P043,barangBukti,"1 paket sabu (berat 0,77 gram)  |  10 lembar klip plastik kecil  |  1 serokan dari sedotan  |  1 HP VIVO hijau  |  uang tunai Rp280.000",putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P043,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15,Qhoirul,Qhoirul,verified
+P043,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya  |  Terdakwa belum pernah dihukum sebelumnya,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,15,Qhoirul,Qhoirul,verified
+P043,sourcePages,1  |  2  |  4  |  6  |  10  |  15  |  16,putusan_666_pid.sus_2025_pn_bjm_20261106141214.pdf,1  |  2  |  4  |  6  |  10  |  15  |  16,Qhoirul,Qhoirul,verified
+P044,nomorPerkara,688/Pid.Sus/2025/PN Bjm,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,1,Qhoirul,Qhoirul,verified
+P044,pengadilan,PN Banjarmasin,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,1,Qhoirul,Qhoirul,verified
+P044,tanggalPutusan,2025-11-24,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,32,Qhoirul,Qhoirul,verified
+P044,terdakwaKode,T055,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,1,Qhoirul,Qhoirul,verified
+P044,jenisNarkotika,Sabu,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P044,beratBarangBuktiGram,"1702,61",putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P044,pasalDakwaan,Pasal 114 ayat (2)  |  Pasal 112 ayat (2),putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,2  |  4  |  7,Qhoirul,Qhoirul,verified
+P044,pasalTerbukti,Pasal 114 ayat (2),putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30  |  31  |  32,Qhoirul,Qhoirul,verified
+P044,tuntutanBulan,108,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,3,Qhoirul,Qhoirul,verified
+P044,vonisBulan,96,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30,Qhoirul,Qhoirul,verified
+P044,dendaRupiah,1000000000,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30,Qhoirul,Qhoirul,verified
+P044,barangBukti,"1 paket sabu (berat kotor 1.065 gram  |  bersih 1.003,29 gram)  |  7 paket sabu (berat kotor 705,55 gram  |  bersih 699,32 gram)  |  plastik bekas bungkus sabu  |  2 HP (Infinix Smart 9, Vivo Y19S)  |  SIM dan kartu identitas palsu",putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30  |  31,Qhoirul,Qhoirul,verified
+P044,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30,Qhoirul,Qhoirul,verified
+P044,keadaanMeringankan,Terdakwa menyesali perbuatannya  |  Terdakwa berjanji tidak mengulanginya lagi  |  Terdakwa belum pernah dihukum,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,30,Qhoirul,Qhoirul,verified
+P044,sourcePages,1  |  3  |  17  |  30  |  31  |  32,putusan_688_pid.sus_2025_pn_bjm_20261106141202.pdf,1  |  3  |  17  |  30  |  31  |  32,Qhoirul,Qhoirul,verified
+P045,nomorPerkara,702/Pid.Sus/2025/PN Bjm,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,1,Qhoirul,Qhoirul,verified
+P045,pengadilan,PN Banjarmasin,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,1,Qhoirul,Qhoirul,verified
+P045,tanggalPutusan,2025-11-24,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P045,terdakwaKode,T056  |  T057,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,1,Qhoirul,Qhoirul,verified
+P045,jenisNarkotika,Sabu,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,beratBarangBuktiGram,"4,36",putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (1) jo Pasal 132 ayat (1),putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,6,Qhoirul,Qhoirul,verified
+P045,pasalTerbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1),putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,tuntutanBulan,72  |  92,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,3,Qhoirul,Qhoirul,verified
+P045,vonisBulan,66  |  78,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,dendaRupiah,1000000000  |  1000000000,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,barangBukti,"16 paket sabu (berat bersih keseluruhan 4,36 gram)  |  1 timbangan digital  |  1 pak plastik klip  |  1 dompet kecil merah  |  1 kotak plastik bening  |  1 dompet kecil hitam  |  1 tas  |  uang tunai Rp3.190.000",putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,25,Qhoirul,Qhoirul,verified
+P045,keadaanMemberatkan,Perbuatan Para Terdakwa bertentangan dengan program pemerintah dalam pencegahan dan pemberantasan penyalahgunaan narkotika  |  Terdakwa II pernah dihukum sebelumnya terkait perkara narkotika,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,24,Qhoirul,Qhoirul,verified
+P045,keadaanMeringankan,Para Terdakwa mengakui terus terang dan menyesali perbuatannya  |  Para Terdakwa bersikap sopan di persidangan  |  Terdakwa I belum pernah dihukum,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,24,Qhoirul,Qhoirul,verified
+P045,sourcePages,1  |  2  |  3  |  6  |  15  |  24  |  25  |  26,putusan_702_pid.sus_2025_pn_bjm_20261106141326.pdf,1  |  2  |  3  |  6  |  15  |  24  |  25  |  26,Qhoirul,Qhoirul,verified
+P046,nomorPerkara,715/Pid.Sus/2025/PN Bjm,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,1,Qhoirul,Qhoirul,verified
+P046,pengadilan,PN Banjarmasin,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,1,Qhoirul,Qhoirul,verified
+P046,tanggalPutusan,2025-11-24,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,26,Qhoirul,Qhoirul,verified
+P046,terdakwaKode,T058,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,1,Qhoirul,Qhoirul,verified
+P046,jenisNarkotika,Sabu,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25,Qhoirul,Qhoirul,verified
+P046,beratBarangBuktiGram,"99,31",putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25,Qhoirul,Qhoirul,verified
+P046,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,2  |  17,Qhoirul,Qhoirul,verified
+P046,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25  |  26,Qhoirul,Qhoirul,verified
+P046,tuntutanBulan,118,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,2,Qhoirul,Qhoirul,verified
+P046,vonisBulan,78,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25,Qhoirul,Qhoirul,verified
+P046,dendaRupiah,1000000000,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25,Qhoirul,Qhoirul,verified
+P046,barangBukti,"1 paket narkotika sabu (berat bersih 99,31 gram)  |  1 lembar kantong plastik hitam  |  1 lembar plastik hitam berplester coklat  |  3 HP (Oppo A3x, Nokia 110, Oppo A17)  |  1 unit sepeda motor",putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,25,Qhoirul,Qhoirul,verified
+P046,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,24,Qhoirul,Qhoirul,verified
+P046,keadaanMeringankan,Terdakwa menyesali perbuatannya  |  Terdakwa berjanji tidak mengulanginya lagi,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,24,Qhoirul,Qhoirul,verified
+P046,sourcePages,1  |  2  |  15  |  24  |  25  |  26,putusan_715_pid.sus_2025_pn_bjm_20261106141238.pdf,1  |  2  |  15  |  24  |  25  |  26,Qhoirul,Qhoirul,verified
+P047,nomorPerkara,716/Pid.Sus/2025/PN Bjm,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,1,Qhoirul,Qhoirul,verified
+P047,pengadilan,PN Banjarmasin,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,1,Qhoirul,Qhoirul,verified
+P047,tanggalPutusan,2025-11-24,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,25,Qhoirul,Qhoirul,verified
+P047,terdakwaKode,T059,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,1,Qhoirul,Qhoirul,verified
+P047,jenisNarkotika,Sabu,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P047,beratBarangBuktiGram,"99,31",putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P047,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,2  |  5  |  7,Qhoirul,Qhoirul,verified
+P047,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P047,tuntutanBulan,118,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,2,Qhoirul,Qhoirul,verified
+P047,vonisBulan,78,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,25,Qhoirul,Qhoirul,verified
+P047,dendaRupiah,1000000000,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,25,Qhoirul,Qhoirul,verified
+P047,barangBukti,"1 paket narkotika sabu (berat bersih 99,31 gram)  |  1 lembar kantong plastik hitam  |  1 lembar plastik hitam berplester coklat  |  3 HP (Oppo A3x, Nokia 110, Oppo A17)  |  1 unit sepeda motor",putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24  |  25,Qhoirul,Qhoirul,verified
+P047,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Terdakwa meresahkan masyarakat,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24,Qhoirul,Qhoirul,verified
+P047,keadaanMeringankan,Terdakwa menyesali perbuatannya  |  Terdakwa berjanji tidak mengulanginya lagi,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,24,Qhoirul,Qhoirul,verified
+P047,sourcePages,1  |  2  |  14  |  24  |  25,putusan_716_pid.sus_2025_pn_bjm_20261106141304.pdf,1  |  2  |  14  |  24  |  25,Qhoirul,Qhoirul,verified
+P048,nomorPerkara,744/Pid.Sus/2025/PN Bjm,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,1,Qhoirul,Qhoirul,verified
+P048,pengadilan,PN Banjarmasin,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,1,Qhoirul,Qhoirul,verified
+P048,tanggalPutusan,2025-11-24,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,16,Qhoirul,Qhoirul,verified
+P048,terdakwaKode,T060,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,1,Qhoirul,Qhoirul,verified
+P048,jenisNarkotika,Sabu,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P048,beratBarangBuktiGram,"0,51",putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P048,pasalDakwaan,Pasal 114 ayat (1)  |  Pasal 112 ayat (1),putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,4  |  6,Qhoirul,Qhoirul,verified
+P048,pasalTerbukti,Pasal 114 ayat (1),putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P048,tuntutanBulan,90,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,2,Qhoirul,Qhoirul,verified
+P048,vonisBulan,78,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15,Qhoirul,Qhoirul,verified
+P048,dendaRupiah,1000000000,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15,Qhoirul,Qhoirul,verified
+P048,barangBukti,"13 paket narkotika jenis sabu (berat kotor 3,11 gram  |  berat bersih 0,51 gram)  |  1 HP Realme C21Y hitam  |  uang tunai Rp40.000",putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15  |  16,Qhoirul,Qhoirul,verified
+P048,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah dalam memberantas tindak pidana narkotika  |  Perbuatan Terdakwa berpotensi merusak generasi penerus bangsa,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15,Qhoirul,Qhoirul,verified
+P048,keadaanMeringankan,Terdakwa telah menyesal dan berjanji tidak akan mengulangi perbuatannya lagi  |  Terdakwa belum pernah dihukum sebelumnya,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,15,Qhoirul,Qhoirul,verified
+P048,sourcePages,1  |  2  |  4  |  6  |  10  |  14  |  15  |  16,putusan_744_pid.sus_2025_pn_bjm_20261106141126.pdf,1  |  2  |  4  |  6  |  10  |  14  |  15  |  16,Qhoirul,Qhoirul,verified
+P049,nomorPerkara,749/Pid.Sus/2025/PN Bjm,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,1,Qhoirul,Qhoirul,verified
+P049,pengadilan,PN Banjarmasin,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,1,Qhoirul,Qhoirul,verified
+P049,tanggalPutusan,2025-12-03,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,32,Qhoirul,Qhoirul,verified
+P049,terdakwaKode,T061  |  T062,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,1,Qhoirul,Qhoirul,verified
+P049,jenisNarkotika,Sabu  |  Ekstasi,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31,Qhoirul,Qhoirul,verified
+P049,beratBarangBuktiGram,"58,77",putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31,Qhoirul,Qhoirul,verified
+P049,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1)  |  Pasal 112 ayat (2) jo Pasal 132 ayat (1),putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,3  |  9  |  12,Qhoirul,Qhoirul,verified
+P049,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1),putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31  |  32,Qhoirul,Qhoirul,verified
+P049,tuntutanBulan,96  |  96,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,3,Qhoirul,Qhoirul,verified
+P049,vonisBulan,72  |  72,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31,Qhoirul,Qhoirul,verified
+P049,dendaRupiah,1000000000  |  1000000000,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31,Qhoirul,Qhoirul,verified
+P049,barangBukti,"8 paket sabu (berat keseluruhan 36,78 gram, tanpa plastik klip)  |  60 butir ekstasi biru berbentuk perisai (berat 21,99 gram, tanpa plastik klip)  |  1 timbangan digital hitam  |  1 bungkus plastik klip  |  barang lain yang disita  |  uang tunai Rp1.900.000",putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,31,Qhoirul,Qhoirul,verified
+P049,keadaanMemberatkan,Perbuatan Para Terdakwa tidak mendukung program Pemerintah dalam pemberantasan penyalahgunaan narkotika  |  Perbuatan Para Terdakwa meresahkan masyarakat,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,30,Qhoirul,Qhoirul,verified
+P049,keadaanMeringankan,Para Terdakwa menyesali perbuatannya  |  Para Terdakwa berjanji tidak mengulanginya lagi  |  Para Terdakwa belum pernah dihukum,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,30,Qhoirul,Qhoirul,verified
+P049,sourcePages,1  |  3  |  19  |  30  |  31  |  32,putusan_749_pid.sus_2025_pn_bjm_20261106143033.pdf,1  |  3  |  19  |  30  |  31  |  32,Qhoirul,Qhoirul,verified
