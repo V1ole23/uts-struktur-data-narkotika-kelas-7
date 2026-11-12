@@ -107,4 +107,46 @@ public class MyQueue<T> implements StrukturData<T> {
             throw new IndexOutOfBoundsException("Indeks: " + position + ", Ukuran: " + size);
         }
     }
+
+
+
+    // Melakukan pencarian dengan rotasi antrean (rotateSearch) tanpa merusak FIFO,
+    // serta mencatat jumlah langkah (steps) dan mengembalikan posisi ketemu (atau -1).
+    
+    private int searchSteps = 0;
+    public int getSearchSteps() {
+        return searchSteps;
+    }
+
+    
+    // Mencari elemen dalam queue dengan memutar antrean.
+   //  Mengembalikan true jika ditemukan, dan menyimpan jumlah langkah.
+
+    public boolean rotateSearch(T target) {
+        if (isEmpty()) {
+            searchSteps = 0;
+            return false;
+        }
+
+        int n = size;
+        boolean found = false;
+        searchSteps = 0;
+
+        for (int i = 0; i < n; i++) {
+            searchSteps++;
+            T current = remove(0); // Ambil elemen depan
+            
+            if (current != null && current.equals(target)) {
+                found = true;
+            }
+            
+            add(current); // Kembalikan ke belakang (rotasi)
+            if (found && i == 0) {
+                // Jika ditemukan pada langkah pertama, hentikan rotasi lebih lanjut
+                break;
+            }
+        }
+        
+        return found;
+    }
 }
