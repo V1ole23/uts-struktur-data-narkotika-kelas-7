@@ -1,0 +1,18 @@
+RIWAYAT AUDIT (17 operasi)
+  1. 2026-11-13 13:20:54 | IMPOR | data\putusan-50.csv | dibaca=50, diterima=50, ditolak=0
+  2. 2026-11-13 13:21:10 | AGREGASI | seluruh data | perkara=50
+  3. 2026-11-13 13:21:10 | EKSPOR | TXT output\agregasi.txt | 321 karakter
+  4. 2026-11-13 13:21:17 | EKSPOR | CSV output\hasil-terakhir.csv | 0 record
+  5. 2026-11-13 13:21:20 | EKSPOR | TXT output\audit.txt | 335 karakter
+  6. 2026-11-13 13:21:24 | EKSPOR | CSV output\data-penuh.csv | 50 record
+  7. 2026-11-13 13:22:18 | IMPOR | data\putusan-50.csv | dibaca=50, diterima=50, ditolak=0
+  8. 2026-11-13 13:22:19 | TAMPIL | semua | 50 record
+  9. 2026-11-13 13:22:48 | TAMBAH | ditolak | harus tepat satu baris CSV, ditemukan 0
+ 10. 2026-11-13 13:22:58 | CARI | caseId p005 | DITEMUKAN di posisi 4 (5 langkah banding, 4 rotasi, 46 pemulihan)
+ 11. 2026-11-13 13:23:07 | FILTER | beratMin=0.0 beratMax=40.0 | 31 record
+ 12. 2026-11-13 13:23:18 | FILTER | jenis=sabu | 46 record
+ 13. 2026-11-13 13:23:21 | FILTER | jenis=sabu pasalTerbukti=112 | 14 record
+ 14. 2026-11-13 13:23:29 | FILTER | jenis=sabu pasalTerbukti=112 vonisMin=0 vonisMax=80 | 10 record
+ 15. 2026-11-13 13:23:33 | AGREGASI | seluruh data | perkara=50
+ 16. 2026-11-13 13:23:38 | URUT | vonis naik | 50 record (salinan)
+ 17. 2026-11-13 13:23:40 | URUT | vonis turun | 50 record (salinan)

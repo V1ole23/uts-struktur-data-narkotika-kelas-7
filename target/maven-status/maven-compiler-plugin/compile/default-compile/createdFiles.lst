@@ -1,0 +1,17 @@
+com\strukdat\putusan\service\Agregasi.class
+com\strukdat\putusan\app\Main.class
+com\strukdat\putusan\io\CsvParser.class
+com\strukdat\putusan\io\EksportirPutusan.class
+com\strukdat\putusan\io\ImporterPutusan.class
+com\strukdat\putusan\model\Putusan.class
+com\strukdat\putusan\service\FilterPutusan.class
+com\strukdat\putusan\io\FormatAngka.class
+com\strukdat\putusan\service\LogAudit.class
+com\strukdat\putusan\io\HasilImpor.class
+com\strukdat\putusan\struktur\Kriteria.class
+com\strukdat\putusan\service\PutusanService.class
+com\strukdat\putusan\struktur\Pengunjung.class
+com\strukdat\putusan\struktur\HasilCari.class
+com\strukdat\putusan\struktur\StrukturData.class
+com\strukdat\putusan\struktur\NodeAntrian.class
+com\strukdat\putusan\struktur\AntrianGenerik.class

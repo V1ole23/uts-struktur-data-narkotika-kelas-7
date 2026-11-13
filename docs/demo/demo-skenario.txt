@@ -1,0 +1,48 @@
+=== SKENARIO 1: Muat data ===
+Dibaca 50 record, diterima 49, ditolak 1.
+  [ERROR] Baris data ke-50 [P050] DITOLAK: nomorPerkara duplikat dengan P006; tanggalPutusan '2025-2-5' tidak berformat yyyy-MM-dd; terdakwaKode T001 sudah dipakai P001; terdakwaKode T002 sudah dipakai P002; dendaRupiah '1.000.000.000,00' tidak valid (bukan bilangan bulat tak negatif)
+size() = 49 (dibaca 50, valid 49)
+validateInvariant(): OK
+
+=== SKENARIO 2: Pencarian ===
+  cari P025 [ada (tengah)] -> DITEMUKAN di posisi 24 (25 langkah banding, 24 rotasi, 25 pemulihan)
+  cari P999 [tidak ada] -> TIDAK DITEMUKAN (49 langkah)
+  cari P001 [posisi batas: pertama] -> DITEMUKAN di posisi 0 (1 langkah banding, 0 rotasi, 0 pemulihan)
+  cari P049 [posisi batas: terakhir] -> DITEMUKAN di posisi 48 (49 langkah banding, 48 rotasi, 1 pemulihan)
+  cari nomor 934/Pid.Sus/2024/PN Bjm -> DITEMUKAN di posisi 0 (1 langkah banding, 0 rotasi, 0 pemulihan)
+
+=== SKENARIO 3: Hapus pertama, tengah, terakhir (perubahan pointer) ===
+Awal: head=P001, tail=P049, size=49
+  sebelum hapus pertama (posisi 0): ... -> null -> P001 -> P002 -> ...
+  dihapus P001 -> head sekarang P002, size=48
+  sebelum hapus tengah (posisi 24): ... -> P025 -> P026 -> P027 -> ...
+  dihapus P026 -> next(P025) kini P027, size=47
+  sebelum hapus terakhir (posisi 46): ... -> P048 -> P049 -> null -> ...
+  dihapus P049 -> tail sekarang P048, next(tail)=null, size=46
+validateInvariant(): OK
+
+=== SKENARIO 4: Tambah kembali 3 record ===
+  tambah P001 -> size=47, tail=P001, invariant OK
+  tambah P026 -> size=48, tail=P026, invariant OK
+  tambah P049 -> size=49, tail=P049, invariant OK
+  urutan 3 terakhir: P001, P026, P049 (urutan penambahan; elemen baru selalu masuk di belakang)
+
+=== SKENARIO 5: Filter gabungan vs provenance ===
+  (memakai data segar hasil impor ulang, karena langkah 3-4 memindahkan 3 record ke belakang)
+  kriteria        : jenis=Sabu beratMin=5.0 pasalTerbukti=114 vonisMin=72 vonisMax=96
+  hasil program   : P001,P006,P011,P012,P013,P014,P033,P040,P044,P046,P047,P049 (12 record)
+  hasil provenance: P001,P006,P011,P012,P013,P014,P033,P040,P044,P046,P047,P049
+  COCOK: true
+
+=== SKENARIO 6: Pencarian tidak mengubah urutan ===
+  setelah rotateSearch otomatis, urutan sama: true
+  rotateSearch tanpa pemulihan: DITEMUKAN di posisi 27 (28 langkah banding, 27 rotasi, 0 pemulihan)
+  offsetRotasi=27, urutan fisik sementara dimulai: [P030(182/Pid.Sus/2025/PN Bjm), P...
+  restore() -> 22 langkah, offsetRotasi=0, urutan dimulai: [P002(899/Pid.Sus/2024/PN Bjm), P...
+  urutan akhir sama dengan awal: true
+
+=== SKENARIO 7: Record tidak valid ===
+  pesan: tanggalPutusan '2025-2-5' tidak berformat yyyy-MM-dd; beratBarangBuktiGram 'abc' tidak valid (format angka desimal tidak dikenali)
+  size sebelum=49, sesudah=49 (tidak berubah)
+  validateInvariant(): OK
+16 kolom wajib; file rusak: File tidak dapat dibaca: Tanda kutip ganda tidak ditutup
