@@ -7,7 +7,7 @@
 
 ## Struktur data pilihan
 
-**Queue (FIFO) buatan sendiri**, `AntrianGenerik<T>`,
+**Queue (FIFO)**
 
 berbasis simpul berantai (`head`/`tail`).
 Operasi: `enqueue`, `dequeue`, `peek`, `rotateSearch`, `restore`, serta kontrak `StrukturData<T>`
